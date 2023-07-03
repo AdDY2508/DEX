@@ -1,1 +1,35 @@
 /* Styles go here */
+body{
+    margin: auto;
+    background-image: url("../bck.jpg");
+    background-size: auto;
+    
+}
+
+.d-flex{
+    position: relative;
+    left: 300px;
+}
+
+.card{
+    position: relative;
+    left: 300px;
+    background-color: rgba(52, 98, 226, 0.363);
+
+}
+
+
+
+.card-body.bg-transparent {
+    color: rgb(255, 240, 240);
+  }
+
+ .innovate{
+    position: relative;
+    bottom: 350px; ;
+    font-size: 50px;
+    right: 300px;
+    color: rgb(174, 198, 207);
+    font-family: 'Times New Roman', Times, serif;
+ }
+  
